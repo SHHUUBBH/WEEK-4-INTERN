@@ -60,6 +60,9 @@ WEEK 4
 ├── data/
 │ └── sales_data.csv
 │
+├── Report/
+│ └── report.md
+│
 ├── visualizations/
 │ ├── bar_chart.png
 │ ├── heatmap.png
